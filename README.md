@@ -16,9 +16,9 @@ Este projeto começa escolhendo uma dificuldade (dependendo da dificuldade terá
 
 ## 💻 Reflexão
 
-- Estudo da linguagem C, um código bem simples que abrange variáveis, estrutura de repetição, vetor e estrutura condicional.
+- Estudo da linguagem C, um código bem simples que abrange variáveis, estrutura de repetição e estrutura condicional.
 
-- Skills da linguagem: estrutura condicional(If e else), estrutura de repetição(for) printf, scanf, vetores,  e variável int e float.
+- Skills da linguagem: estrutura condicional(If e else), estrutura de repetição(for) printf, scanf e variável int.
 
 <br>
 <br>
